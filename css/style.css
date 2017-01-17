@@ -4946,7 +4946,7 @@ ul.cgray a {
 .logo img.dark {
   width: 150px;
   height: 40px;
-  background: url('../images/avision.png') 0 0; }
+  background: url('../images/avision-dark.png') 0 0; }
 
 .logo img.white {
   width: 150px;
@@ -6886,7 +6886,7 @@ a.circlebig2:hover {
   overflow: hidden; }
 
 .prlx-team {
-  background: url('../images/team.jpg') top center;
+  background: url('../images/bg/e4.png') top center;
   background-size: cover;
   height: 1246px;
   position: absolute;
@@ -13378,7 +13378,7 @@ ul.roundsocial li {
 .logo-fold img.dark {
   width: 150px;
   height: 40px;
-  background: url('../images/avision.png') 0 0; }
+  background: url('../images/avision-dark.png') 0 0; }
 
 .logo-fold img.white {
   width: 150px;
