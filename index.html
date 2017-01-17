@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-	<title>Avision</title>
+	<title>Eduwizz</title>
 	<!-- Bootstrap implementation -->
 	<link href="dist/css/bootstrap.css" rel="stylesheet" type="text/css" />
 	<link href="css/style.css" rel="stylesheet" type="text/css" />
@@ -631,56 +631,83 @@
 #################################
 -->
 <!-- START REVOLUTION SLIDER 3.1 rev5 fullwidth mode -->
-<div class="tp-banner-container relative">
+<div id="parallax-on" class="tp-banner-container relative">
+
 	<div class="tp-banner" >
 		<ul>
 
-			<!-- SLIDE new  -->
-			<li  data-transition="fade" data-slotamount="1" data-masterspeed="2000" data-thumb="images/slider/girls.jpg" data-delay="12000"  data-saveperformance="on"  data-title="Ken Burns Slide" data-color="white">				<!-- MAIN IMAGE -->
-				<img src="images/dummy.png" alt="" data-lazyload="images/slider/girls.jpg" data-bgposition="center top" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="100" data-bgfitend="100" data-bgpositionend="center top">
+			<!-- SLIDE 1  -->
+			<li  data-transition="fade" data-slotamount="1" data-masterspeed="2000" data-thumb="images/bg/heroheader3.jpg" data-delay="12000"  data-saveperformance="on"  data-title="Ken Burns Slide" data-color="white">
+				<!-- MAIN IMAGE -->
+				<img src="images/dummy.png" data-lazyload="images/bg/heroheader3.jpg" data-bgposition="top center" data-bgpositionend="top center" alt="" data-kenburns="on" data-duration="12000" data-ease="Power0.easeInOut" data-bgfit="100" data-bgfitend="100">
 
-				<div class="prlx-off tp-caption rev-p1 cwhite titlefont caps text-center customin customout"
-					data-x="center"   data-voffset="-50"	
-					data-y="center"   data-hoffset="0"
-					data-captionhidden="on"
-					data-splitin="line"
-					data-elementdelay="0.25"
-					data-start="500"
+				<!-- Filter dark -->
+				<div class="tp-caption customin customout"
+					 data-x="center"
+					 data-y="center"
+
+					 data-customin="opacity:0;"
+					 data-customout="opacity:1;"
+					 data-speed="600"
+					 data-start="0"
+					 data-easing="easeOut"  
+					 style="z-index: 4; display:block; background:rgba(0,0,0,0.3); width:100%; height:100%;"
+				></div>
+
+				<!-- LAYER 1 -->
+				<div class="prlx-on slow tp-caption fontproximaextrabold size80 ls-5 caps cwhite customin customout tp-resizeme"
+					data-x="center"  data-voffset="-55"
+					data-y="center"  data-hoffset="0"
+											
+					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 					data-speed="500"
-					data-easing="Back.easeOut"
-					data-customin="x:0;y:-20;z:0;rotationX:90;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-					data-endelementdelay="0.1"
-					data-customout="x:0;y:0;z:0;rotationX:40;rotationY:70;rotationZ:0;scaleX:0.85;scaleY:0.85;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
-					data-endspeed="500"
-					data-endeasing="Power4.easeIn"
-					style="z-index: 10"
-					>
-					Avision<br class="visible-xs"/> - For the <br class="visible-xs visible-sm"/> creative<br class="visible-xs"/> ones
+					data-start="3500"
+					data-easing="Power3.easeInOut"
+					data-splitin="chars"
+					data-splitout="chars"
+					data-elementdelay="0.05"
+					data-endelementdelay="0.05"
+					data-endspeed="300"
+					style="z-index: 10;"
+					>Avision
 				</div>
-
-				<div class="prlx-off tp-caption caption-white-bold-caps  customin customout"
-					data-x="center"   data-voffset="20"	
+				
+				<!-- LAYER 2 -->
+				<div class="prlx-on slow tp-caption fontproximalight size30 clight randomrotate customout tp-resizeme"
+					data-x="center"  data-voffset="0"		
+					data-y="center"  data-hoffset="0"	
+					
+					data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+					data-speed="500"
+					data-start="500"
+					data-easing="Power3.easeInOut"
+					data-splitin="chars"
+					data-splitout="chars"
+					data-elementdelay="0.05"
+					data-endelementdelay="0.05"						
+					data-endspeed="100"
+					style="z-index: 10;"
+					>Ready to craft your business
+				</div>
+				
+				<!-- LAYER 3 -->
+				<div class="prlx-on slow tp-caption caption-white-bold-caps customin  stl"
+					data-x="center"   data-voffset="60"	
 					data-y="center"   data-hoffset="0"
 				
-					data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 					data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
 					data-speed="500"
-					data-start="1000"
+					data-start="5000"
 					data-easing="Back.easeOut"
 					data-endspeed="300"
 					data-endeasing="Back.easeIn"
 					style="z-index: 10;"
 					>
-					<div class="container rev-ct1">
-						<div class="col-md-6">
-							<button type="submit" class="btn btnwhiteline caps rev-l soundClick activate-tmprev">Browse our creative themes</button>
-						</div>
-						<div class="col-md-6">
-							<a href="../builder" class="btn btnwhiteline caps rev-r soundClick" target="_blank">Create yours using a builder</a>
-						</div>
-					</div>
-				</div>		
+					<a href="#" class="btn btnwhiteline2 fontproximabold plr40 caps rev-l">Purchase this template</a>
 
+				</div>	
+				
 				<!-- SCROLL -->
 				<div class="prlx-off tp-caption caption-white-bold-caps customin customout"
 					data-x="center"   data-voffset="-20"
@@ -704,26 +731,8 @@
 					<span class="ti-mouse size30 cwhite"></span>
 					</div>
 				</div>	
-				
-				<div class="tp-caption "
-					 data-x="center"
-					 data-y="center"
-					 data-speed="600"
-					 data-start="0"
-					 data-easing="easeOut"  
-					 style="z-index: 4; display:block; background:rgba(0,0,0,0.5); width:100%; height:100%;"
-					 ></div>
-
-				<div class="tp-caption "
-					 data-x="center"
-					 data-y="center"
-					 data-speed="600"
-					 data-start="0"
-					 data-easing="easeOut"  
-					 style="z-index: 3; display:block; background:rgba(255,255,255,0.1); width:100%; height:100%;"
-					 ></div>
 			</li>
-
+			
 		</ul>
 		<div class="tp-bannertimer none"></div>
 	</div>
