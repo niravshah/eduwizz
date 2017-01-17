@@ -4946,7 +4946,9 @@ ul.cgray a {
 .logo img.dark {
   width: 150px;
   height: 40px;
-  background: url('../images/avision-dark.png') 0 0; }
+  background: url('../images/avision-dark.png') 0 0;
+  margin-bottom: 10px;
+  margin-top: 10px;}
 
 .logo img.white {
   width: 150px;
