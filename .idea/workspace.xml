@@ -2,9 +2,92 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03dd463b-9799-4b2c-bdf0-333e98433cd0" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutus.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutus2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aboutus3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/author.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bigtitleheader.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blank.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blankcontent.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogdetails.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogdetailsfixedmenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogdetailsfixedmenuleft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogdetailsleft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogfixedmenu.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogfixedmenuleft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/blogleft.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/careers.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/columns.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/comingsoon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/contact5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/faqs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/faqs2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index00.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index02.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index04b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index04c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index06.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index06b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index07.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index07b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index08.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index08b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index09.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index10b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index11.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index11b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index12.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index12b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index14.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index15.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index15b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index15c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index16.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index17.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index17b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index17c.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index18.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index19.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index20.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index21.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index22.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index23.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index24.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maintenance.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/maintenance2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio-details.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/portfolio4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pricelist.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/process.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/searchpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/services.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop-productpage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shop.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/shortcodes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sidebar-left.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sidebar-right.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign03.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign04.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign05.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign07.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign08.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign09.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign10.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sliderdesign13.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/team.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/courses.html" afterPath="$PROJECT_DIR$/courses.html" />
     </list>
     <ignored path="eduwizz.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,16 +108,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-936">
-              <caret line="255" column="41" lean-forward="false" selection-start-line="255" selection-start-column="41" selection-end-line="255" selection-end-column="41" />
+            <state relative-caret-position="285">
+              <caret line="273" column="28" lean-forward="true" selection-start-line="273" selection-start-column="28" selection-end-line="273" selection-end-column="28" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courses.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/courses.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="128" column="63" lean-forward="false" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
+              <folding>
+                <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="schools.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schools.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="355" column="0" lean-forward="false" selection-start-line="355" selection-start-column="0" selection-end-line="411" selection-end-column="26" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -71,6 +180,7 @@
         <option value="$PROJECT_DIR$/js/functions.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/courses.html" />
       </list>
     </option>
   </component>
@@ -107,7 +217,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -122,7 +232,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -133,6 +243,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -140,6 +252,34 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
@@ -259,6 +399,9 @@
       <module name="" />
       <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
       <method />
     </configuration>
     <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
@@ -394,6 +537,12 @@
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
       <envs />
       <method />
     </configuration>
@@ -549,11 +698,12 @@
       <workItem from="1484677229051" duration="12056000" />
       <workItem from="1487275101413" duration="21000" />
       <workItem from="1491462189246" duration="411000" />
+      <workItem from="1491492822891" duration="1886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12488000" />
+    <option name="totallyTimeSpent" value="14374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="6" />
@@ -561,31 +711,31 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32775453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -608,6 +758,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183825">
+          <caret line="12255" column="23" lean-forward="false" selection-start-line="12255" selection-start-column="23" selection-end-line="12255" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -734,13 +905,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-936">
-          <caret line="255" column="41" lean-forward="false" selection-start-line="255" selection-start-column="41" selection-end-line="255" selection-end-column="41" />
+        <state relative-caret-position="285">
+          <caret line="273" column="28" lean-forward="true" selection-start-line="273" selection-start-column="28" selection-end-line="273" selection-end-column="28" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#3;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#4;n#li#0;n#ul#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schools.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="355" column="0" lean-forward="false" selection-start-line="355" selection-start-column="0" selection-end-line="411" selection-end-column="26" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#4;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/courses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="128" column="63" lean-forward="false" selection-start-line="128" selection-start-column="63" selection-end-line="128" selection-end-column="63" />
+          <folding>
+            <element signature="n#div#5;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
