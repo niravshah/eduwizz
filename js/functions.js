@@ -1339,7 +1339,7 @@ $(window).load(function() {
             scroll: {
                 items: 1,
                 easing: "elastic",
-                duration: 1000,
+                duration: 500,
                 pauseOnHover: true
             },
             prev: {
