@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -631,9 +632,10 @@
 		
 	</div>
 </div>
-<!-- End of Navigation -->		
+<!-- End of Navigation -->			
 
-<div class="bgwhite space20 relative z20 borderbottom"></div>
+<div class="bgwhite space20 relative z20"></div>
+
 <div class="bgxlight bordertopbottom relative z20">
 	<div class="container ptb40 cdark">
 		<h3 class="text-center titlefont size30 c999">Contact</h3>
@@ -645,21 +647,29 @@
 	</div>
 </div>
 
-<!-- SECTION IMAGE -->
-<section class="bgwhite  borderbottom relative z10 clearfix">
-	<div class="col-xs-12 col-sm-12 col-md-6 offset-0 h600" ><div id="googleMap"></div></div>
-	<div class="container cus-pos-abs">
-		<div class="clearfix"></div>
-		<div class="cover-right-text col-sm-12 col-sm-offset-0 col-md-6 col-md-offset-6 sspacing size18">
-			
 
-			<strong class="fontproximabold cdark caps">Avision</strong>
+<!-- GOOGLE MAPS -->
+<div class="wfull h500 bgwhite relative z15 footer-bottom-offset">
+	<div class="col-md-12 hfull bgdark offset-0">
+		<div id="googleMap"></div>
+	</div>
+</div>
+<!-- /END GOOGLE MAPS -->
+
+
+<!-- SECTION CONTACT -->
+<div class="bgwhite">
+	<div class="container sspacing-title-button">
+		<div class="col-md-4">
+			<div class="space30"></div>
+			<span class="fontproximabold cdark caps"> Company Details</span>
 			<div class="divider mtb20"></div>
-			<h1 class="titlefont caps">
-				4676 Devonshire Drive 
-				Ravenna, OH 44266
-			</h1>
 			
+			<strong class="fontproximabold cdark size18">Avision</strong>
+			<p class="cdark">
+				4676 Devonshire Drive <br/>
+				Ravenna, OH 44266
+			</p>
 			<div class="divider mtb20"></div>
 			<strong class="fontproximabold cdark">Email</strong>
 			<p>
@@ -673,40 +683,83 @@
 				<span class="cdark">0 1800 1800 1234</span>
 			</p>
 
-		</div>
-	</div>
-</section>
-<!-- END OF SECTION IMAGE -->
 
-<!-- SECTION CONTACT -->
-<div class="bgxlight">
-	<div class="container sspacing-title-button">
-		<div class="row">
-			<p class="titlefont text-center clightgrey size30 mb10 pb20">Since you arrived here, you could leave us a message.</p>
-			
-			<div class="col-md-3">
-				<input type="text" class="form-control formlarge" placeholder="Name">
-				<input type="text" class="form-control formlarge mt17" placeholder="Email">
-				<input type="text" class="form-control formlarge mt17" placeholder="Phone">
-			</div>
-			<div class="col-md-9">
-				<textarea class="form-control formstyle" rows="8" placeholder="Message"></textarea>
-			</div>
-			<div class="clearfix"></div>
-			<button type="submit" class="btn btnwhitebig btn-default caps center mt30"><i class="icon-mail"></i> Send Message</button>
-			<div class="clearfix"></div>
+		</div>
+		<div class="col-md-8">
+
+				<p class="size30 ml10 mb10 cdark pb20">Send us your feedback</p>
+				
+				<div class="col-md-6">
+					<input type="text" class="form-control formlarge" placeholder="Name">
+				</div>
+				<div class="col-md-6">
+					<input type="text" class="form-control formlarge" placeholder="Email">
+				</div>
+				<div class="col-md-12">
+					<input type="text" class="form-control formlarge mt17" placeholder="Phone">
+				</div>
+				<div class="col-md-12">
+					<textarea class="form-control formstyle mt17" rows="7" placeholder="Message"></textarea>
+				</div>
+				<div class="clearfix"></div>
+				<button type="submit" class="btn btnwhitebig btn-default caps ml10 mt30"><i class="icon-mail"></i> Send Message</button>
+				<div class="clearfix"></div>
+
 		</div>
 	</div>
 </div>
 <!-- END OF CONTACT -->
 
 <!-- FOOTER -->
-<div class="footer white">
-	<div class="container ptb30 cwhite text-center c999">
-		© TitanicThemes.com | All rights reserved.
+<div class="footer">
+	<div class="container ptb50 cwhite">
+		<div class="row">
+			<div class="col-md-3">
+				<h5 class="uppercase bold pb20 cwhite titlefont">About us</h5>
+				<p>Aenean sodales eros ac scelerisque sagittis. Aliquam porta consectetur blandit. Nulla sed augue nisl. Vivamus pulvinar ullamcorper malesuada.</p>
+			</div>
+			<div class="col-md-3">
+				<h5 class="uppercase bold pb20 cwhite titlefont">Services</h5>
+				<ul>
+					<li><a href="#">Awareness Planning</a></li>
+					<li><a href="#">Connected Experiences</a></li>
+					<li><a href="#">Mobile Application Development</a></li>
+					<li><a href="#">Corporate Branding</a></li>
+					<li><a href="#">Social Strategy</a></li>
+					<li><a href="#">S.E.O.</a></li>
+				</ul>
+			</div>
+			<div class="col-md-3">
+				<h5 class="uppercase bold pb20 cwhite titlefont">Tweets</h5>
+				<div id="twitter-feed" class="tweett"></div>
+			</div>
+			<div class="col-md-3">
+				<h5 class="uppercase bold pb20 cwhite titlefont">Newsletter</h5>
+				<p>Latest News Straight to your inbox</p>
+				<input type="email" class="form-control newsletter" placeholder="Enter email">
+				<button type="submit" class="btn newsletterbtn"><i class="icon-mail"></i></button>
+			</div>
+		</div>
+	</div>
+	
+	<div class="clearfix"></div>
+	<div class="separator100dark"></div>
+	
+	<div class="container ptb30 cwhite">
+		<a href="#"><img src="images/avision-footer.png" class="w90" alt="avision logo" /></a>
+		<div class="socialicons right">
+			<ul>
+				<li class="blue dgrey"><a href="#"><i class="icon-facebook"></i></a></li>
+				<li class="lblue lgrey"><a href="#"><i class="icon-twitter-bird"></i></a></li>
+				<li class="orange dgrey"><a href="#"><i class="icon-gplus"></i></a></li>
+				<li class="pink lgrey"><a href="#"><i class="icon-dribbble"></i></a></li>
+				<li class="red dgrey"><a href="#"><i class="icon-youtube"></i></a></li>
+			</ul>
+		</div>
 	</div>
 </div>
 <!-- End of Footer -->
+
 
 <p id="back-top"><a href="#top"><span class="ti-angle-up"></span></a></p>
 

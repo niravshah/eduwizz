@@ -4,9 +4,9 @@
 	if ( $('body').hasClass('loadmap') ){
 		//<![CDATA[
 		var geocoder = new google.maps.Geocoder();
-		var address = "London Cherry Wood"; //Add your address here, all on one line.
-		var latitude;
-		var longitude;
+		var address = "Trimurti Enclave, Malad - West, Mumbai "; //Add your address here, all on one line.
+		var latitude=19.187624;
+		var longitude=72.843644;
 		// var color = "#333"; //Set your tint color. Needs to be a hex value.
 
 		function getGeocode() {
@@ -33,7 +33,7 @@
 				mapTypeControl: true,
 				zoomControl: true,
 				disableDefaultUI: true,	
-				mapTypeId: 'Styled'
+				//mapTypeId: 'Styled'
 			};
 			var div = document.getElementById('googleMap');
 			var map = new google.maps.Map(div, options);
@@ -43,8 +43,8 @@
 			    animation: google.maps.Animation.DROP,
 			    position: new google.maps.LatLng(latitude,longitude)
 			});
-			var styledMapType = new google.maps.StyledMapType(styles, { name: 'Styled' });
-			map.mapTypes.set('Styled', styledMapType);
+			//var styledMapType = new google.maps.StyledMapType(styles, { name: 'Styled' });
+			//map.mapTypes.set('Styled', styledMapType);
 			
 			var infowindow = new google.maps.InfoWindow({
 			      content: "<div class='iwContent'>"+address+"</div>"
@@ -55,8 +55,8 @@
 			
 			
 			bounds = new google.maps.LatLngBounds(
-			  new google.maps.LatLng(-84.999999, -179.999999), 
-			  new google.maps.LatLng(84.999999, 179.999999));
+			  new google.maps.LatLng(-19.187624, -72.843644), 
+			  new google.maps.LatLng(19.187624, 72.843644));
 
 			rect = new google.maps.Rectangle({
 			    bounds: bounds,
@@ -70,6 +70,6 @@
 		//]]>
 		
 		//This must be loaded after google maps
-			getGeocode();
+			initGoogleMap();
 		}
 //END
