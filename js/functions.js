@@ -1732,7 +1732,7 @@
 		}
 		
 		if( $iw > 970  ){
-			$('div.logo img.dark').addClass('white').removeClass('dark');
+			//$('div.logo img.dark').addClass('white').removeClass('dark');
 		}
 
 		// On window resize calculate the height and make animations
