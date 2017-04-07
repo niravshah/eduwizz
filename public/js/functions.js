@@ -4,7 +4,7 @@
 $(window).load(function() {
     // $(window).scrollTop(0);
     $('#status').fadeOut();
-    $('#preloader').delay(350).fadeOut('slow');
+    $('#preloader').delay(150).fadeOut('slow');
     // Play sound after pageload for Onepage
     // and for medium and large screens only
     if($('.sounds-enable').length) {
@@ -226,7 +226,7 @@ jQuery(document).ready(function() {
         parallax: "mouse",
         parallaxBgFreeze: "off",
         parallaxLevels: [7, 4, 3, 2, 5, 4, 3, 2, 1, 0],
-        keyboardNavigation: "on",
+        keyboardNavigation: "on"
     });
     //Listen slide nr. and changes the menu and logo color depending on the slider colors
     revapi.bind("revolution.slide.onchange", function(e, data) {
@@ -1330,30 +1330,58 @@ $(window).load(function() {
 			at caroufredsel.dev7studios.com
 		*/
     // Carousel Devices
+    var $iw = $(window).innerWidth();
     if($("#foo3").length) {
-        $("#foo3").carouFredSel({
-            responsive: true,
-            auto: true,
-            direction: "left",
-            items: 4,
-            scroll: {
-                items: 1,
-                easing: "elastic",
-                duration: 500,
-                pauseOnHover: true
-            },
-            prev: {
-                button: "#prev3",
-                key: "left"
-            },
-            next: {
-                button: "#next3",
-                key: "right"
-            },
-            pagination: ".pager3",
-            swipe: true,
-
-        });
+        if($iw > 750) {
+            $("#foo3").carouFredSel({
+                responsive: true,
+                auto: true,
+                direction: "left",
+                items: 4,
+                scroll: {
+                    items: 1,
+                    easing: "elastic",
+                    duration: 500,
+                    pauseOnHover: true
+                },
+                prev: {
+                    button: "#prev3",
+                    key: "left"
+                },
+                next: {
+                    button: "#next3",
+                    key: "right"
+                },
+                pagination: ".pager3",
+                swipe: true,
+            });
+        } else {
+            $("#foo3").carouFredSel({
+                responsive: true,
+                auto: true,
+                direction: "left",
+                items: {
+                    min: 1,
+                    max: 4
+                },
+                scroll: {
+                    items: 1,
+                    easing: "elastic",
+                    duration: 500,
+                    pauseOnHover: true
+                },
+                prev: {
+                    button: "#prev3",
+                    key: "left"
+                },
+                next: {
+                    button: "#next3",
+                    key: "right"
+                },
+                pagination: ".pager3",
+                swipe: true,
+            });
+        }
     }
     // Carousel Partners Logos
     if($("#foo4").length) {
