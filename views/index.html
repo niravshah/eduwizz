@@ -1,11 +1,11 @@
 {% extends 'layout.html' %}
 {% block content %}
+
 <!-- start preloader -->
 <div id="preloader">
     <div id="status">&nbsp;</div>
 </div>
 <!-- end preloader -->
-
 
 <!-- Navigation -->
 <div class="navigation white">
@@ -52,9 +52,9 @@
 
     </div>
 </div>
+<!-- END Navigation -->
 
-
-<!-- START REVOLUTION SLIDER 3.1 rev5 fullwidth mode -->
+<!-- Main Slide -->
 <div id="home" class="tp-banner-container relative">
 
     <div class="tp-banner">
@@ -74,7 +74,7 @@
                 </div>
 
                 <!-- LAYER 2 -->
-                <div class="prlx-on slow tp-caption fontproximalight size30 clight randomrotate customout tp-resizeme" data-x="center" data-voffset="0" data-y="center" data-hoffset="0" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="chars" data-elementdelay="0.05" data-endelementdelay="0.05" data-endspeed="100" style="z-index: 10;">Revolutionizing IGCSE Coaching in Mumbai
+                <div class="prlx-on slow tp-caption size30 fontproximalight clight randomrotate customout tp-resizeme" data-x="center" data-voffset="0" data-y="center" data-hoffset="0" data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;" data-speed="500" data-start="500" data-easing="Power3.easeInOut" data-splitin="chars" data-splitout="chars" data-elementdelay="0.05" data-endelementdelay="0.05" data-endspeed="100" style="z-index: 10;">Revolutionizing IGCSE Coaching in Mumbai
                 </div>
 
                 <!-- LAYER 3 -->
@@ -96,10 +96,9 @@
         <div class="tp-bannertimer none"></div>
     </div>
 </div>
-<!-- END REVOLUTION SLIDER -->
+<!-- END Main Slide -->
 
-
-<!-- 3 COLS -->
+<!-- Key Points -->
 <div id="features" class="bgwhite  relative z100">
     <div class="container">
         <ul class="squares ">
@@ -134,8 +133,9 @@
         </ul>
     </div>
 </div>
-<!-- End of 3 Cols -->
+<!-- End Key Points -->
 
+<!-- Results -->
 <div id="results" class="bgwhite mb50 mt50 relative z100">
     <div class="container">
         <div class="row">
@@ -205,7 +205,7 @@
                         <img src="images/results/resized/khushi.jpg" alt="" />
                         <p class="size16 mt20 cmaincolor">Khushi Mehta</p>
                         <p class="size16">English 95/100</p>
-                        <p class="size12">Grade 7, D. J. Khetan</p>
+                        <p class="size12">Grade 7, D. G. Khetan</p>
                     </li>
 
                 </ul>
@@ -220,22 +220,23 @@
         </div>
     </div>
 </div>
+<!-- END Results -->
 
 
-<!-- THE TEAM SECTION -->
+<!-- Why Eduwizz -->
 <div class="h50"></div>
 <section ID="teamparallax-c" class="">
     <h2 class="none">Eduwizz</h2>
     <div class="prlx-team container"></div>
 </section>
 <div class="container bgwhite mb50">
-    <div class="m100" data-scroll-reveal="enter bottom over 0.5s and move 30px after 0s">
-        <div class="col-md-3">
+    <div class="mt100" data-scroll-reveal="enter bottom over 0.5s and move 30px after 0s">
+        <div class="col-md-3 hidden-xs">
             <p class="size40 mt-20 titlefont">Expert IGCSE Coaching</p>
         </div>
-        <div class="col-md-1">
+        <div class="col-md-1 col-sm-12">
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8 col-sm-12">
             <h3 class="size40 titlefont">
                 What's unique about the
                 <br/>Eduwizz Approach?
@@ -259,7 +260,51 @@
         <div class="clearfix"></div>
     </div>
 </div>
-<!-- END OF TEAM SECTION -->
+<!-- END Why Eduwizz -->
+
+<!-- Schools -->
+<div class="sspacing-title bgwhite mb50">
+    <div class="container text-center">
+        <h3 class="text-center caps titlefont pb10">Schools in Focus</h3>
+        <h5 class="text-center caps titlefont pb20">We actively work with students from these schools</h5>
+
+        <!-- CarouFredSel 4 -->
+        <div class="list_carousel4 responsive">
+            <ul id="foo4">
+                <li>
+                    <a href="http://www.khetanint.org/">
+                        <img src="images/schools/dg.png" alt="" />
+                        <p class="size16 cmaincolor"><a href="">D. G. Khetan School</a>
+                        </p>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.wittykidsindia.com/">
+                        <img src="images/schools/witty.png" alt="" />
+                        <p class="size16 cmaincolor">Witty Internaltional School</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.oberoi-is.org/">
+                        <img src="images/schools/oberoi.jpg" alt="" />
+                        <p class="size16 cmaincolor"><a href="">Oberoi Internaltional School</a>
+                        </p>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://marwadisammelan.org/shais/index.html">
+                        <img src="images/schools/sha.jpg" alt="" />
+                        <p class="size16 cmaincolor"><a href="">Savitri Agarwal School</a>
+                        </p>
+                    </a>
+                </li>
+            </ul>
+            <div class="clearfix"></div>
+        </div>
+        <!-- End of CarouFredSel 4 -->
+    </div>
+</div>
+<!-- END School-->
 
 
 <!-- FOOTER -->
