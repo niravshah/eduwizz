@@ -1,7 +1,7 @@
 var config = [];
 
 config['dev'] = {
-    mongoUrl: 'mongodb://localhost/eduwizz'
+    mongoUrl: 'mongodb://localhost:27017/eduwizz'
 
 };
 
